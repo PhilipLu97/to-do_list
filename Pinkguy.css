@@ -1,3 +1,10 @@
 body{
-    background-image: url(https://media.giphy.com/media/148a3jIKXIe5Da/giphy.gif);
+    background-image: url(https://33.media.tumblr.com/d9bf6f84f14f68ccf073ae7c2aee9323/tumblr_mqewxjPwGl1qe2kaeo1_500.gif);
+}
+li
+{
+    list-style-type:none;
+}
+li{
+   color: magenta; 
 }
