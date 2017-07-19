@@ -8,3 +8,6 @@ li
 li{
    color: magenta; 
 }
+body{
+    list-style-type:none;
+}
